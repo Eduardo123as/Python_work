@@ -1,0 +1,40 @@
+{
+    "geometricas": [
+        {
+            "nombre": "circulo",
+            "medida": 50,
+            "x": 50,
+            "y": 45
+        },
+        {
+            "nombre": "cuadrado",
+            "medida": 50,
+            "x": 150,
+            "y": 5
+        },
+        {
+            "nombre": "circulo",
+            "medida": 50,
+            "x": 150,
+            "y": 145
+        },
+        {
+            "nombre": "cuadrado",
+            "medida": 150,
+            "x": 250,
+            "y": 355
+        },
+        {
+            "nombre": "triangulo",
+            "medida": 80,
+            "x": 400,
+            "y": 100
+        },
+        {
+            "nombre": "pentagono",
+            "medida": 60,
+            "x": 400,
+            "y": 300
+        }
+    ]
+}

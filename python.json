@@ -1,0 +1,9 @@
+{
+    "geometricas": [
+    {"circulo":{"radio":50,"color":"rojo","x":50,"y":45}},
+    {"trianguloEquilatero":{"lado":50,"x":150,"y":5}},
+    {"pentagono":{"lado":10,"color":"verde","x":50,"y":45}},
+    {"circulo":{"radio":60,"x":0,"y":0}}
+    ]
+}
+    
